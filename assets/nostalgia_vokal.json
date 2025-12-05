@@ -1,0 +1,558 @@
+{
+	"1": {
+		"s_title": "aku_ingin_pulang",
+		"s_options": "Aku Ingin Pulang\/Aku Letih\/Elegi Esok Pagi\/Untuk Kita Renungkan"
+	},
+	"2": {
+		"s_title": "andaikan_kau_datang",
+		"s_options": "Andaikan Kau Datang\/Andai Kau Datang Kembali\/Andai Kau Datang Kemari\/Andaikan"
+	},
+	"3": {
+		"s_title": "berita_kepada_kawan",
+		"s_options": "Berita Kepada Kawan\/Kawan Dengarkanlah\/Cinta Sebening Embun\/Badai Pasti Berlalu"
+	},
+	"4": {
+		"s_title": "bintang_kehidupan",
+		"s_options": "Bintang Kehidupan\/Malam Sendiri\/Kesendirian Malam\/Kehidupan Tanpa Cinta"
+	},
+	"5": {
+		"s_title": "cinta_sebening_embun",
+		"s_options": "Cinta Sebening Embun\/Pernahkah Kau Menerka\/Cinta Di Sudut Hati\/Kupu Kupu Kertas"
+	},
+	"6": {
+		"s_title": "dingin",
+		"s_options": "Dingin\/Janji Tinggal Janji\/Janji Palsu\/Bulan Madu"
+	},
+	"7": {
+		"s_title": "elegi_esok_pagi",
+		"s_options": "Elegi Esok Pagi\/Untuk Kita Renungkan\/Aku Ingin Pulang\/Cinta Sebening Embun"
+	},
+	"8": {
+		"s_title": "tinggallah_kusendiri",
+		"s_options": "Tinggallah Kusendiri\/Aku Bagai Nelayan\/Kehilangan Arah\/Bintang Kehidupan"
+	},
+	"9": {
+		"s_title": "hati_yang_luka",
+		"s_options": "Hati Yang Luka\/Janji Palsu\/Jangan Biarkan\/Jatuh Cinta"
+	},
+	"10": {
+		"s_title": "jangan_ada_dusta_di_antara_kita",
+		"s_options": "Jangan Ada Dusta Di Antara Kita\/Terserah Padamu\/Kharisma Cinta\/Aku Apa Adanya"
+	},
+	"11": {
+		"s_title": "jangan_biarkan",
+		"s_options": "Jangan Biarkan\/Biarkanlah\/Hati Yang Luka\/Bulan Tiada Berseri"
+	},
+	"12": {
+		"s_title": "sandiwara_cinta",
+		"s_options": "Sandiwara Cinta\/Bosan\/Tinggallah Kusendiri\/Terserah Apa Maumu"
+	},
+	"13": {
+		"s_title": "katakan_sejujurnya",
+		"s_options": "Katakan Sejujurnya\/Takkan Kurindu\/Katakanlah\/Andai Tak Bertemu"
+	},
+	"14": {
+		"s_title": "kau_selalu_di_hatiku",
+		"s_options": "Kau Selalu Di Hatiku\/Sambutlah Tanganku\/Katakan Sejujurnya\/Jangan Biarkan"
+	},
+	"15": {
+		"s_title": "kaulah_segalanya",
+		"s_options": "Kaulah Segalanya\/Kau Segalanya\/Segalanya Untukku\/Kau Curahan Hati"
+	},
+	"16": {
+		"s_title": "manis_dan_sayang",
+		"s_options": "Manis Dan Sayang\/Manis Dan Manja\/Manja Dan Sayang\/Manis Manja Dan Sayang"
+	},
+	"17": {
+		"s_title": "kemesraan",
+		"s_options": "Kemesraan\/Kharisma Cinta\/Cepat Berlalu\/Ingin Ku Kenang"
+	},
+	"18": {
+		"s_title": "kharisma_cinta",
+		"s_options": "Kharisma Cinta\/Kemesraan\/Cinta Membawa Duka\/Hati Hati"
+	},
+	"19": {
+		"s_title": "seberkas_sinar",
+		"s_options": "Seberkas Sinar\/Sandiwara Cinta\/Seberkas Cahaya\/Seberkas Cinta"
+	},
+	"20": {
+		"s_title": "kupu_kupu_kertas",
+		"s_options": "Kupu Kupu Kertas\/Kupu Kupu Malam\/Cinta Sebening Embun\/Camellia"
+	},
+	"21": {
+		"s_title": "nostalgia_sma",
+		"s_options": "Nostalgia SMA\/Nostalgia\/Nostalgia SMK\/Nostalgia Sekolah"
+	},
+	"22": {
+		"s_title": "sepanjang_jalan_kenangan",
+		"s_options": "Sepanjang Jalan Kenangan\/Jalan Kenangan\/Kenangan Kita\/Teluk Bayur"
+	},
+	"23": {
+		"s_title": "teluk_bayur",
+		"s_options": "Teluk Bayur\/Selamat Tinggal\/Berpisah Di Saint Carolus\/Selamat Tinggal Kasih"
+	},
+	"24": {
+		"s_title": "teringat_selalu",
+		"s_options": "Teringat Selalu\/Teringat Pada Suatu Waktu\/Teringat Pada Senyummu\/Ingin Bertemu"
+	},
+	"25": {
+		"s_title": "untuk_kita_renungkan",
+		"s_options": "Untuk Kita Renungkan\/Aku Ingin Pulang\/Elegi Esok Pagi\/Titip Rindu Buat Ayah"
+	},
+	"26": {
+		"s_title": "kisah_sedih_di_hari_minggu",
+		"s_options": "Kisah Sedih Di Hari Minggu\/Sabtu Malam Kusendiri\/Kisah Kasih Di Sekolah\/Kisah Sedih"
+	},
+	"27": {
+		"s_title": "bing",
+		"s_options": "Bing\/Kapan Lagi\/Tiada\/Teringat Selalu"
+	},
+	"28": {
+		"s_title": "buat_apa_susah",
+		"s_options": "Buat Apa Susah\/Tak Mungkin\/Kembali\/Bujangan"
+	},
+	"29": {
+		"s_title": "dara_manisku",
+		"s_options": "Dara Manisku\/Kuingin Denganmu\/Daraku\/Cintaku Manisku"
+	},
+	"30": {
+		"s_title": "camellia_2",
+		"s_options": "Camellia 2\/Camellia 1\/Camellia 3\/Camellia 4"
+	},
+	"31": {
+		"s_title": "darah_muda",
+		"s_options": "Darah Muda\/Jiwa Muda\/Masa Muda\/Muda Mudi"
+	},
+	"32": {
+		"s_title": "hatimu_hatiku",
+		"s_options": "Hatimu Hatiku\/Jangan Biarkan\/Hati Kehidupan\/Biarkanlah"
+	},
+	"33": {
+		"s_title": "jangan_pernah_berkata_benci",
+		"s_options": "Jangan Pernah Berkata Benci\/Jangan Ada Dusta Di Antara Kita\/Sayangi Aku Selamanya\/Sayangilah"
+	},
+	"34": {
+		"s_title": "kau_bukan_dirimu",
+		"s_options": "Kau Bukan Dirimu\/Kekasih\/Katakan Sejujurnya\/Kau Bukan Dirimu Yang Dulu"
+	},
+	"35": {
+		"s_title": "kekasih",
+		"s_options": "Kekasih\/Kau Bukan Dirimu\/Jangan Kau Terlena\/Tak Mungkin"
+	},
+	"36": {
+		"s_title": "kembali",
+		"s_options": "Kembali\/Menunggumu\/Kekasih\/Tak Mungkin"
+	},
+	"37": {
+		"s_title": "kisah_kasih_di_sekolah",
+		"s_options": "Kisah Kasih Di Sekolah\/Suci Dalam Debu\/Aneh Tapi Nyata\/Nostalgia SMA"
+	},
+	"38": {
+		"s_title": "tak_mungkin",
+		"s_options": "Tak Mungkin\/Kembali\/Ku Datang Lagi\/Kolam Susu"
+	},
+	"39": {
+		"s_title": "ada_yang_tak_mampu_kulupa",
+		"s_options": "Ada Yang Tak Mampu Kulupa\/Seraut Wajah\/Menjaring Matahari\/Nyanyian Rindu"
+	},
+	"40": {
+		"s_title": "aku_tak_biasa",
+		"s_options": "Aku Tak Biasa\/Cinta Yang Kau Bagi\/Menghitung Hari\/Biasa"
+	},
+	"41": {
+		"s_title": "asmara",
+		"s_options": "Asmara\/Seberkas Sinar\/Cinta Dan Duka\/Ketika"
+	},
+	"42": {
+		"s_title": "ayah",
+		"s_options": "Ayah\/Titip Rindu Untuk Ayah\/Hatiku Rapuh\/Ayahku"
+	},
+	"43": {
+		"s_title": "bunga_kenangan",
+		"s_options": "Bunga Kenangan\/Bunga Mawar\/Bungan Yang Indah\/Bungaku"
+	},
+	"44": {
+		"s_title": "cinta",
+		"s_options": "Cinta\/Ingkar Janji\/Janji\/Janji Dan Cinta"
+	},
+	"45": {
+		"s_title": "dalam_kerinduan",
+		"s_options": "Dalam Kerinduan\/Kerinduan\/Rindu\/Di Antara Rindu"
+	},
+	"46": {
+		"s_title": "dunia_belum_kiamat",
+		"s_options": "Dunia Belum Kiamat\/Sabar\/Hari Tua\/Berpikir"
+	},
+	"47": {
+		"s_title": "gelas_gelas_kaca",
+		"s_options": "Gelas Gelas Kaca\/Gelas Gelas Plastik\/Renungan Gelas Kaca\/Siapa Diriku"
+	},
+	"48": {
+		"s_title": "gereja_tua",
+		"s_options": "Gereja Tua\/Hujan Rintik\/Waktu Telah Berlalu\/Kisah Kita"
+	},
+	"49": {
+		"s_title": "gubahanku",
+		"s_options": "Gubahanku\/Lagu Untukmu\/Flamboyan\/Titik Senja"
+	},
+	"50": {
+		"s_title": "ingin_marah_silahkan",
+		"s_options": "Ingin Marah Silahkan\/Ingin Diam Silahkan\/Jangan Marah\/Jangan Diam"
+	},
+	"51": {
+		"s_title": "jatuh_cinta",
+		"s_options": "Jatuh Cinta\/Cinta\/Jatuh Bangun\/Cinta Suci"
+	},
+	"52": {
+		"s_title": "kala_cinta_menggoda",
+		"s_options": "Kala Cinta Menggoda\/Ijinkanlah Aku Mencintaimu\/Ijikan Aku Menyayangimu\/Saat Cinta Melanda"
+	},
+	"53": {
+		"s_title": "katakanlah",
+		"s_options": "Katakanlah\/Katakan Sejujurnya\/Jangan Ingkar Janji\/Katakan Saja"
+	},
+	"54": {
+		"s_title": "cubit_cubitan",
+		"s_options": "Cubit Cubitan\/Senggol Senggolan\/Genit Genit\/Cubit Berarti Sayang"
+	},
+	"55": {
+		"s_title": "kini_baru_kau_rasa",
+		"s_options": "Kini Baru Kau Rasa\/Jalan Jalan Memori\/Tenda Biru\/Lagu Melayu"
+	},
+	"56": {
+		"s_title": "kucari_jalan_terbaik",
+		"s_options": "Kucari Jalan Terbaik\/Cinta Yang Terpaksa\/Kemesraan\/Keterpaksaan"
+	},
+	"57": {
+		"s_title": "layu_sebelum_berkembang",
+		"s_options": "Layu Sebelum Berkembang\/Tak Lagi Berseri\/Bukan Dirimu\/Tiada Lagi Harapan"
+	},
+	"58": {
+		"s_title": "maafkan_daku",
+		"s_options": "Maafkan Daku\/Maafkanlah\/Maafkanlah Sayang\/Maaf"
+	},
+	"59": {
+		"s_title": "malam_yang_dingin",
+		"s_options": "Malam Yang Dingin\/Kucoba Yang Terbaik\/Dingin\/Malam Sunyi"
+	},
+	"60": {
+		"s_title": "mama",
+		"s_options": "Mama\/Kembalilah\/Ayah\/Mama Kembalilah"
+	},
+	"61": {
+		"s_title": "menghitung_hari",
+		"s_options": "Menghitung Hari\/Padamkan Asmaramu\/Asmara\/Cinta Putih"
+	},
+	"62": {
+		"s_title": "merantau",
+		"s_options": "Merantau\/Sepi\/Sunyi\/Pergi"
+	},
+	"63": {
+		"s_title": "mungkinkah",
+		"s_options": "Mungkinkah\/Lembah Bernoda\/Mengapa\/Bing"
+	},
+	"64": {
+		"s_title": "mutiara_yang_hilang",
+		"s_options": "Mutiara Yang Hilang\/Terlalu Lama\/Selalu Kucari\/Ketenangan Hati"
+	},
+	"65": {
+		"s_title": "nona_anna",
+		"s_options": "Nona Anna\/Anna\/Nyonya Anna\/Anna Gadis"
+	},
+	"66": {
+		"s_title": "nyanyian_rindu",
+		"s_options": "Nyanyian Rindu\/Menjaring Matahari\/Kupu Kupu Kertas\/Rembulan Menangis"
+	},
+	"67": {
+		"s_title": "patah_hati",
+		"s_options": "Patah Hati\/Sakit Hati\/Putus Asa\/Sakit Jiwa"
+	},
+	"68": {
+		"s_title": "pergi_untuk_kembali",
+		"s_options": "Pergi Untuk Kembali\/Rembulan\/Keteduhan Hati\/Pergilah"
+	},
+	"69": {
+		"s_title": "setulus_hatimu_semurni_cintaku",
+		"s_options": "Setulus Hatimu Semurni Cintaku\/Janji Setia\/Hatimu Hatiku\/Dinding Pemisah Hati"
+	},
+	"70": {
+		"s_title": "bunga_di_tepi_jalan",
+		"s_options": "Bunga Di Tepi Jalan\/Kutemukan Bunga Di Tepi Jalan\/Bunga Liar\/Petik Sebelum Layu"
+	},
+	"71": {
+		"s_title": "widuri",
+		"s_options": "Widuri\/Suatu Senja\/Hujan Rintik\/Kemesraan"
+	},
+	"72": {
+		"s_title": "kupu_kupu_malam",
+		"s_options": "Kupu Kupu Malam\/Kupu Kupu Kertas\/Dengarkanlah\/Melayang"
+	},
+	"73": {
+		"s_title": "pulau_seribu",
+		"s_options": "Pulau Seribu\/Waktu Terang Bulan\/Teluk Bayur\/Berlayar"
+	},
+	"74": {
+		"s_title": "kolam_susu",
+		"s_options": "Kolam Susu\/Bukan Lautan\/Tanah Surga\/Kolam Ikan"
+	},
+	"75": {
+		"s_title": "bujangan",
+		"s_options": "Bujangan\/Hati Senang\/Begini Nasib\/Buat Apa Susah"
+	},
+	"76": {
+		"s_title": "angin_malam",
+		"s_options": "Angin Malam\/Gemuruh Angin\/Alam Yang Jadi Saksi\/Daun Daun"
+	},
+	"77": {
+		"s_title": "muda_mudi",
+		"s_options": "Muda Mudi\/Mari Mari\/Tiada Yang Melarang\/Darah Muda"
+	},
+	"78": {
+		"s_title": "mari_mari",
+		"s_options": "Mari Mari\/Manis Senyummu\/Manis Dan Sayang\/Muda Mudi"
+	},
+	"79": {
+		"s_title": "mari_berjoget",
+		"s_options": "Mari Mari\/Mari Berjoget\/Mari Bernyanyi\/Mari Mari Berjoget"
+	},
+	"80": {
+		"s_title": "kapan_kapan",
+		"s_options": "Kapan Kapan\/Aku Masih Disini\/Manis Dan Sayang\/Mari Berjoget"
+	},
+	"81": {
+		"s_title": "pelangi",
+		"s_options": "Pelangi\/Pelangi Pelangi\/Pelangi Di Matamu\/Pelangiku"
+	},
+	"82": {
+		"s_title": "telaga_sunyi",
+		"s_options": "Telaga Sunyi\/Kisah Seorang Putri\/Putri Yang Patah Hati\/Telaga Biru"
+	},
+	"83": {
+		"s_title": "oh_kasihku",
+		"s_options": "Oh Kasihku\/Kasihku\/Kekasihku\/Oh Kekasihku"
+	},
+	"84": {
+		"s_title": "why_do_you_love_me",
+		"s_options": "Why Do You Love me\/I Will Do Everything\/So Sweet\/Why Do You Like Me"
+	},
+	"85": {
+		"s_title": "menjaring_matahari",
+		"s_options": "Menjaring Matahari\/Untuk Kita Renungkan\/Camellia 3\/Camellia 2"
+	},
+	"86": {
+		"s_title": "camellia_1",
+		"s_options": "Camellia 2\/Camellia 1\/Camellia 3\/Camellia 4"
+	},
+	"87": {
+		"s_title": "camellia_3",
+		"s_options": "Camellia 2\/Camellia 1\/Camellia 3\/Camellia 4"
+	},
+	"88": {
+		"s_title": "lagu_untuk_sebuah_nama",
+		"s_options": "Lagu Untuk Sebuah Nama\/Untuk Kita Renungkan\/Seraut Wajah\/Titip Rindu Buat Ayah"
+	},
+	"89": {
+		"s_title": "kalian_dengarkanlah_keluhanku",
+		"s_options": "Kalian Dengarkanlah Keluhanku\/Untuk Kita Renungkan\/Menjaring Matahari\/Titip Rindu Buat Ayah"
+	},
+	"90": {
+		"s_title": "titip_rindu_buat_ayah",
+		"s_options": "Kalian Dengarkanlah Keluhanku\/Untuk Kita Renungkan\/Menjaring Matahari\/Titip Rindu Buat Ayah"
+	},
+	"91": {
+		"s_title": "asmara_satu_ketika",
+		"s_options": "Asmara Satu Ketika\/Kupu Kupu Kertas\/Menjaring Matahari\/Rembulan Menangis"
+	},
+	"92": {
+		"s_title": "masih_ada_waktu",
+		"s_options": "Masih Ada Waktu\/Kupu Kupu Kertas\/Lagu Untuk Sebuah Nama\/Elegi Esok Pagi"
+	},
+	"93": {
+		"s_title": "biarkan_bunga_berkembang",
+		"s_options": "Biarkan Bunga Berkembang\/Bunga Mawar\/Tangkai Mawar\/Mawar Berduri"
+	},
+	"94": {
+		"s_title": "bunga_mawar",
+		"s_options": "Bunga Mawar\/Bunga Hiasan\/Mawar Berduri\/Bunga Kenangan"
+	},
+	"95": {
+		"s_title": "gadis_kecil",
+		"s_options": "Gadis Kecil\/Pengganti Ibumu\/Perempuan Hebat\/Ibu Angkat"
+	},
+	"96": {
+		"s_title": "habis_gelap_terbitlah_terang",
+		"s_options": "Habis Gelap Terbitlah Terang\/Hening Suasana\/Suasana Malam\/Menyambut Gelap"
+	},
+	"97": {
+		"s_title": "mawar_berduri",
+		"s_options": "Bunga Mawar\/Kumbang Mawar\/Mawar Berduri\/Kembang Mawar"
+	},
+	"98": {
+		"s_title": "mimpi_sedih",
+		"s_options": "Khianati Janji\/Kau Pergi\/Mimpi Sedih\/Senandung Rindu"
+	},
+	"99": {
+		"s_title": "senandung_rindu",
+		"s_options": "Senandung Rindu\/Lagu Kenangan\/Lagu Ini Lagu Kenangan\/Takkan Kulupakan"
+	},
+	"100": {
+		"s_title": "tanpamu",
+		"s_options": "Tanpamu\/Tanpamu Hidupku Hampa\/Tiada Arti Tanpamu\/Hidupku Tanpamu"
+	},
+	"101": {
+		"s_title": "begadang",
+		"s_options": "Berdagang\/Begadang\/Jangan Begadang\/Jiwa Muda"
+	},
+	"102": {
+		"s_title": "mama_aku_ingin_pulang",
+		"s_options": "Mama Aku Ingin Pulang\/Hidupku Tiada Arti\/Bagai Burung Dalam Sangkar\/Belenggu Cinta"
+	},
+	"103": {
+		"s_title": "suara_hatiku",
+		"s_options": "Suara Hatiku\/Ku Tak Akan Menduakan\/Sandiwara Cinta\/Keutuhan Cinta"
+	},
+	"104": {
+		"s_title": "duri_terlindungi",
+		"s_options": "Duri Terlindungi\/Dalam Ketiadaanku\/Sandiwara Cinta\/Suara Hati"
+	},
+	"105": {
+		"s_title": "terlambat_sudah",
+		"s_options": "Terlambat Sudah\/Terlambat\/Hati Yang Luka\/Hati Yang Terlambat"
+	},
+	"106": {
+		"s_title": "bilakah",
+		"s_options": "Bilakah\/Bila Saja\/Bila Kita Bersama\/Kecemburuanku"
+	},
+	"107": {
+		"s_title": "benci_tapi_rindu",
+		"s_options": "Benci Tapi Rindu\/Sakitnya Hati Ini\/Aku Rindu\/Kerinduanku"
+	},
+	"108": {
+		"s_title": "balada_seorang_biduan",
+		"s_options": "Balada Seorang Biduan\/Lagu Sendu\/Kekasih Terlupakan\/Tanpa Kepastian"
+	},
+	"109": {
+		"s_title": "akhir_cinta",
+		"s_options": "Akhir Cinta\/Cinta Tanpa Kasih\/Cinta Semu\/Tiada Bahagia"
+	},
+	"110": {
+		"s_title": "adakah_lagi_pelangi",
+		"s_options": "Adakah Lagi Pelangi\/Pelangi\/Semak Belukar\/Semak Semak Hijau"
+	},
+	"111": {
+		"s_title": "berpisah_di_st_carolus",
+		"s_options": "Berpisah Di St Carolus\/Teluk Bayur\/Selamat Berpisah\/Teras St Carolus"
+	},
+	"112": {
+		"s_title": "sayang_bilang_sayang",
+		"s_options": "Sayang Bilang Sayang\/Cinta Bilang Cinta\/Jangan Ragu\/Jangan Berharap"
+	},
+	"113": {
+		"s_title": "usah_kau_harap_lagi",
+		"s_options": "Usah Kau Harap Lagi\/Usah Kau Kenang Lagi\/Masa Yang Telah Silam\/Masa Lalu Kita"
+	},
+	"114": {
+		"s_title": "tiada_lagi",
+		"s_options": "Tiada Lagi\/Bunga Cinta\/Ingkar Janji\/Semua Berlalu"
+	},
+	"115": {
+		"s_title": "sudah_kubilang",
+		"s_options": "Jangan Biarkan\/Sudah Kubilang\/Jangan Lagi\/Jangan Ragu"
+	},
+	"116": {
+		"s_title": "seuntai_bunga_tanda_cinta",
+		"s_options": "Seuntai Bunga Tanda Cinta\/Tanda Kasih\/Terimalah Tanda Kasihku\/Setangkai Bunga Kasih"
+	},
+	"117": {
+		"s_title": "semalam_di_cianjur",
+		"s_options": "Semalam Di Cianjur\/Senangnya Hatiku\/Teringat Selalu\/Sepasang Bangau"
+	},
+	"118": {
+		"s_title": "sampai_menutup_mata",
+		"s_options": "Sampai Menutup Mata\/Cinta Suci Dan Murni\/Kuserahkan Padamu\/Kemurnian Cintaku"
+	},
+	"119": {
+		"s_title": "putus_cinta_di_batas_kota",
+		"s_options": "Putus Cinta Di Batas Kota\/Tiada Lagi Harapan\/Tiada Cinta Darimu\/Kerinduan Semu"
+	},
+	"120": {
+		"s_title": "disini_dibatas_kota_ini",
+		"s_options": "Disini Dibatas Kota Ini\/Ringtangan Silih Berganti\/Menggapai Cita Cita\/Kutuliskan Kisahku"
+	},
+	"121": {
+		"s_title": "belenggu_cinta",
+		"s_options": "Belenggu Cinta\/Kau Jadikan Belenggu\/Tiada Lagi Cintamu\/Kau Tulis Laraku"
+	},
+	"122": {
+		"s_title": "matahariku",
+		"s_options": "Matahariku\/Mimpi Yang Terlama\/Gelombang Kasih\/Mimpi Yang Merana"
+	},
+	"123": {
+		"s_title": "seperti_yang_kau_minta",
+		"s_options": "Seperti Yang Kau Minta\/Aku Takkan Bisa\/Selama Nafas Berhembus\/Aku Tau Ku Takkan Bisa"
+	},
+	"124": {
+		"s_title": "lilin_lilin_kecil",
+		"s_options": "Lilin Lilin Kecil\/Sanggupkah Kau Memberi\/Seberkas Cahaya\/Beri Aku Cahaya"
+	},
+	"125": {
+		"s_title": "kisah_cintaku",
+		"s_options": "Kisah Cintaku\/Sabtu Malam Kusendiri\/Kesunyian Malam\/Kesunyian Hatiku"
+	},
+	"126": {
+		"s_title": "_angin_malam",
+		"s_options": " Angin Malam\/Hatiku Rawan\/Dewi Malam\/Malam Bahagia"
+	},
+	"127": {
+		"s_title": "pergilah_kasih",
+		"s_options": "Pergilah Kasih\/Tanpa Kata\/Melepas Janji\/Seperti Dirinya"
+	},
+	"128": {
+		"s_title": "cuma_kamu",
+		"s_options": "Cuma Kamu\/Hanya Kamu\/Cuma Kau Di Hatiku\/Hanya Satu"
+	},
+	"129": {
+		"s_title": "ani",
+		"s_options": "Ani\/Rindumu\/Kutahu Kau Rindu\/Rindu Ani"
+	},
+	"130": {
+		"s_title": "hati_siapa_tak_luka",
+		"s_options": "Hati Siapa Tak Luka\/Hati Yang Luka\/Selat Malaka\/Di Selat Malaka"
+	},
+	"131": {
+		"s_title": "bukan_cinta_biasa",
+		"s_options": "Bukan Cinta Biasa\/Hati Yang Luka\/Cintaku Getaran Yang Sama\/Cinta Di Atas Kertas"
+	},
+	"132": {
+		"s_title": "gerimis_mengundang",
+		"s_options": "Gerimis Mengundang\/Gerimis Mengandung\/Bukan Sekedar\/Bukan Sekejap"
+	},
+	"133": {
+		"s_title": "jatuh_bangun",
+		"s_options": "Jatuh Bangun\/Gerimis Mengundang\/Sakit Gigi\/Tenda Biru"
+	},
+	"134": {
+		"s_title": "keliru",
+		"s_options": "Keliru\/Aku Cinta Padamu\/Aku Cinta Kepadamu\/Cinta Dia Dan Dirimu"
+	},
+	"135": {
+		"s_title": "kopi_dangdut",
+		"s_options": "Kopi Dangdut\/Dangdut Ceria\/Mari Berjoget\/Bintang Kejora"
+	},
+	"136": {
+		"s_title": "suci_dalam_debu",
+		"s_options": "Suci Dalam Debu\/Deru Debu\/Debu Debu Intan\/Hari Bercahaya"
+	},
+	"137": {
+		"s_title": "tiada_maaf_bagimu",
+		"s_options": "Tiada Maaf Bagimu\/Mengapa\/Tak Termaafkan\/Maaf"
+	},
+	"138": {
+		"s_title": "tenda_biru",
+		"s_options": "Tenda Biru\/Tanpa Undangan\/Mudah Kau Lupakan\/Ku Tak Percaya"
+	},
+	"139": {
+		"s_title": "bahasa_kalbu",
+		"s_options": "Bahasa Kalbu\/Percayalah\/Perhiasan Hati\/Kerapuhanmu"
+	}
+}

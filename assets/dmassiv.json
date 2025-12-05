@@ -1,0 +1,55 @@
+{
+	"options": "Tak Bisa Hidup Tanpamu,Sebelah Mata,Rindu Setengah Mati,Merindukanmu,Jangan Pergi,Jangan Menyerah,Illfil Manusia Tak Berharga,Diantara Kalian,Diam Tanpa Kata,Cinta Sampai Disini,Cinta Ini Membunuhku,Aku Percaya Kamu,Apa Salahku",
+	"1": {
+		"s_title": "tak_bisa_hidup_tanpamu",
+		"s_options": "Tak Bisa Hidup Tanpamu"
+	},
+	"2": {
+		"s_title": "sebelah_mata",
+		"s_options": "Sebelah Mata"
+	},
+	"3": {
+		"s_title": "rindu_setengah_mati",
+		"s_options": "Rindu Setengah Mati"
+	},
+	"4": {
+		"s_title": "merindukanmu",
+		"s_options": "Merindukanmu"
+	},
+	"5": {
+		"s_title": "jangan_pergi",
+		"s_options": "Jangan Pergi"
+	},
+	"6": {
+		"s_title": "jangan_menyerah",
+		"s_options": "Jangan Menyerah"
+	},
+	"7": {
+		"s_title": "illfil_manusia_tak_berharga",
+		"s_options": "Illfil Manusia Tak Berharga"
+	},
+	"8": {
+		"s_title": "diantara_kalian",
+		"s_options": "Diantara Kalian"
+	},
+	"9": {
+		"s_title": "diam_tanpa_kata",
+		"s_options": "Diam Tanpa Kata"
+	},
+	"10": {
+		"s_title": "cinta_sampai_disini",
+		"s_options": "Cinta Sampai Disini"
+	},
+	"11": {
+		"s_title": "cinta_ini_membunuhku",
+		"s_options": "Cinta Ini Membunuhku"
+	},
+	"12": {
+		"s_title": "apa_salahku",
+		"s_options": "Apa Salahku"
+	},
+	"13": {
+		"s_title": "aku_percaya_kamu",
+		"s_options": "Aku Percaya Kamu"
+	}
+}

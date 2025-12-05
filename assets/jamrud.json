@@ -1,0 +1,75 @@
+{
+	"options": "Biarkan Cinta Tumbuh Di Hatimu,Gaya,Hapus Saja Nomerku,Kabari Aku,Lelaki Biadab,Ningrat,Nyonya Muda,Pelangi Di Matamu,Selamat Ulang Tahun,Shut Up And Listen,Surga Milikmu,Tentang Kita,Terimakasihku,Untuk Ibu,Viva Jamers,Waktu Ku Mandi,Asal British,Ajari Aku Cara Mencintaimu",
+	"1": {
+		"s_title": "ajari_aku_cara_mencintaimu",
+		"s_options": "Ajari Aku Cara Mencintaimu"
+	},
+	"2": {
+		"s_title": "asal_british",
+		"s_options": "Asal British"
+	},
+	"3": {
+		"s_title": "biarkan_cinta_tumbuh_di_hatimu",
+		"s_options": "Biarkan Cinta Tumbuh Di Hatimu"
+	},
+	"4": {
+		"s_title": "gaya",
+		"s_options": "Gaya"
+	},
+	"5": {
+		"s_title": "hapus_saja_nomerku",
+		"s_options": "Hapus Saja Nomerku"
+	},
+	"6": {
+		"s_title": "kabari_aku",
+		"s_options": "Kabari Aku"
+	},
+	"7": {
+		"s_title": "lelaki_biadab",
+		"s_options": "Lelaki Biadab"
+	},
+	"8": {
+		"s_title": "ningrat",
+		"s_options": "Ningrat"
+	},
+	"9": {
+		"s_title": "nyonya_muda",
+		"s_options": "Nyonya Muda"
+	},
+	"10": {
+		"s_title": "pelangi_di_matamu",
+		"s_options": "Pelangi Di Matamu"
+	},
+	"11": {
+		"s_title": "selamat_ulang_tahun",
+		"s_options": "Selamat Ulang Tahun"
+	},
+	"12": {
+		"s_title": "shut_up_and_listen",
+		"s_options": "Shut Up And Listen"
+	},
+	"13": {
+		"s_title": "surga_milikmu",
+		"s_options": "Surga Milikmu"
+	},
+	"14": {
+		"s_title": "tentang_kita",
+		"s_options": "Tentang Kita"
+	},
+	"15": {
+		"s_title": "terimakasihku",
+		"s_options": "Terimakasihku"
+	},
+	"16": {
+		"s_title": "untuk_ibu",
+		"s_options": "Untuk Ibu"
+	},
+	"17": {
+		"s_title": "viva_jamers",
+		"s_options": "Viva Jamers"
+	},
+	"18": {
+		"s_title": "waktu_ku_mandi",
+		"s_options": "Waktu Ku Mandi"
+	}
+}

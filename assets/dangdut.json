@@ -1,0 +1,407 @@
+{
+    "1": {
+      "s_title": "aku_cinta_padamu",
+      "s_options": "Aku Cinta Padamu"
+    },
+    "2": {
+      "s_title": "aku_rindu_padamu",
+      "s_options": "Aku Rindu Padamu"
+    },
+    "3": {
+      "s_title": "anak_haram",
+      "s_options": "Anak Haram"
+    },
+    "4": {
+      "s_title": "asmara_kelapa_muda",
+      "s_options": "Asmara Kelapa Muda"
+    },
+    "5": {
+      "s_title": "badai_biru",
+      "s_options": "Badai Biru"
+    },
+    "6": {
+      "s_title": "bagai_ranting_yang_kering",
+      "s_options": "Bagai Ranting Yang Kering"
+    },
+    "7": {
+      "s_title": "bawalah_aku_kasih",
+      "s_options": "Bawalah Aku Kasih"
+    },
+    "8": {
+      "s_title": "berjanjilah",
+      "s_options": "Berjanjilah"
+    },
+    "9": {
+      "s_title": "berteman_malam",
+      "s_options": "Berteman Malam"
+    },
+    "10": {
+      "s_title": "betul_apa_tidak",
+      "s_options": "Betul Apa Tidak"
+    },
+    "11": {
+      "s_title": "bibir_bermadu",
+      "s_options": "Bibir Bermadu"
+    },
+    "12": {
+      "s_title": "bukan_cerita_dusta",
+      "s_options": "Bukan Cerita Dusta"
+    },
+    "13": {
+      "s_title": "bukan_jodohku",
+      "s_options": "Bukan Jodohku"
+    },
+    "14": {
+      "s_title": "bukan_sandiwara",
+      "s_options": "Bukan Sandiwara"
+    },
+    "15": {
+      "s_title": "bunga_bunga_cinta",
+      "s_options": "Bunga Bunga Cinta"
+    },
+    "16": {
+      "s_title": "bunga_dan_kumbang",
+      "s_options": "Bunga Dan Kumbang"
+    },
+    "17": {
+      "s_title": "cemburu_karena_sayang",
+      "s_options": "Cemburu Karena Sayang"
+    },
+    "18": {
+      "s_title": "cinta_ketok_magic",
+      "s_options": "Cinta Ketok Magic"
+    },
+    "19": {
+      "s_title": "cinta_segitiga",
+      "s_options": "Cinta Segitiga"
+    },
+    "20": {
+      "s_title": "dana_asmara",
+      "s_options": "Dana Asmara"
+    },
+    "21": {
+      "s_title": "di_samping_jalan",
+      "s_options": "Di Samping Jalan"
+    },
+    "22": {
+      "s_title": "dia",
+      "s_options": "Dia"
+    },
+    "23": {
+      "s_title": "dia_adalah_dia",
+      "s_options": "Dia Adalah Dia"
+    },
+    "24": {
+      "s_title": "diam_diam_cemburu",
+      "s_options": "Diam Diam Cemburu"
+    },
+    "25": {
+      "s_title": "dokter_cinta",
+      "s_options": "Dokter Cinta"
+    },
+    "26": {
+      "s_title": "duh_engkang",
+      "s_options": "Duh Engkang"
+    },
+    "27": {
+      "s_title": "duka",
+      "s_options": "Duka"
+    },
+    "28": {
+      "s_title": "gelisah",
+      "s_options": "Gelisah"
+    },
+    "29": {
+      "s_title": "gerimis_melanda",
+      "s_options": "Gerimis Melanda"
+    },
+    "30": {
+      "s_title": "hujan",
+      "s_options": "Hujan"
+    },
+    "31": {
+      "s_title": "khayalan_masa_lalu",
+      "s_options": "Khayalan Masa Lalu"
+    },
+    "32": {
+      "s_title": "khusus_malam_ini",
+      "s_options": "Khusus Malam Ini"
+    },
+    "33": {
+      "s_title": "laguku",
+      "s_options": "Laguku"
+    },
+    "34": {
+      "s_title": "liku_liku",
+      "s_options": "Liku Liku"
+    },
+    "35": {
+      "s_title": "mabuk_duit",
+      "s_options": "Mabuk Duit"
+    },
+    "36": {
+      "s_title": "mari_berdendang",
+      "s_options": "Mari Berdendang"
+    },
+    "37": {
+      "s_title": "masih_adakah",
+      "s_options": "Masih Adakah"
+    },
+    "38": {
+      "s_title": "mimpi",
+      "s_options": "Mimpi"
+    },
+    "39": {
+      "s_title": "muara_kasih_bunda",
+      "s_options": "Muara Kasih Bunda"
+    },
+    "40": {
+      "s_title": "munafik",
+      "s_options": "Munafik"
+    },
+    "41": {
+      "s_title": "perih",
+      "s_options": "Perih"
+    },
+    "42": {
+      "s_title": "peristiwa_silam",
+      "s_options": "Peristiwa Silam"
+    },
+    "43": {
+      "s_title": "siksa_kubur",
+      "s_options": "Siksa Kubur"
+    },
+    "44": {
+      "s_title": "tak_tik",
+      "s_options": "Tak Tik"
+    },
+    "45": {
+      "s_title": "terlambat",
+      "s_options": "Terlambat"
+    },
+    "46": {
+      "s_title": "aduh_sayang",
+      "s_options": "Aduh Sayang"
+    },
+	"47": {
+	  "s_title": "suara_hati",
+	  "s_options": "Suara Hati"
+	},
+	"48": {
+	  "s_title": "gaun_merah_jambu",
+	  "s_options": "Gaun Merah Jambu"
+	},
+	"49": {
+	  "s_title": "gelora_cinta",
+	  "s_options": "Gelora Cinta"
+	},
+	"50": {
+	  "s_title": "bekas_pacar",
+	  "s_options": "Bekas Pacar"
+	},
+	"51": {
+	  "s_title": "berkawan_dalam_duka",
+	  "s_options": "Berkawan Dalam Duka"
+	},
+	"52": {
+	  "s_title": "debu_debu_jalanan",
+	  "s_options": "Debu Debu Jalanan"
+	},
+	"53": {
+	  "s_title": "dangdut_dingin",
+	  "s_options": "Dangdut Dingin"
+	},
+	"54": {
+	  "s_title": "dua_muka",
+	  "s_options": "Dua Muka"
+	},
+	"55": {
+	  "s_title": "hidup_pas_pasan",
+	  "s_options": "Hidup Pas Pasan"
+	},
+	"56": {
+	  "s_title": "jangan_cinta_aku",
+	  "s_options": "Jangan Cinta Aku"
+	},
+	"57": {
+	  "s_title": "kau_anak_haji_aku_anak_penjudi",
+	  "s_options": "Kau Anak Haji Aku Anak Penjudi"
+	},
+	"58": {
+	  "s_title": "keruntuhan_cinta",
+	  "s_options": "Keruntuhan Cinta"
+	},
+	"59": {
+	  "s_title": "pendusta",
+	  "s_options": "Pendusta"
+	},
+	"60": {
+	  "s_title": "petualang_cinta",
+	  "s_options": "Petualang Cinta"
+	},
+	"61": {
+	  "s_title": "secangkir_kopi",
+	  "s_options": "Secangkir Kopi"
+	},
+	"62": {
+	  "s_title": "termiskin_di_dunia",
+	  "s_options": "Termiskin di Dunia"
+	},
+	"63": {
+	  "s_title": "hari_hari_cinta",
+	  "s_options": "Hari Hari Cinta"
+	},
+	"64": {
+	  "s_title": "ibu_tiri",
+	  "s_options": "Ibu Tiri"
+	},
+	"65": {
+	  "s_title": "bunga_dahlia",
+	  "s_options": "Bunga Dahlia"
+	},
+	"66": {
+	  "s_title": "rindu_menanti",
+	  "s_options": "Rindu Menanti"
+	},
+	"67": {
+	  "s_title": "sepiring_berdua",
+	  "s_options": "Sepiring Berdua"
+	},
+	"68": {
+	  "s_title": "cinta_abadi",
+	  "s_options": "Cinta Abadi"
+	},
+	"69": {
+	  "s_title": "menanti_janji",
+	  "s_options": "Menanti Janji"
+	},
+	"70": {
+	  "s_title": "termenung",
+	  "s_options": "Termenung"
+	},
+	"71": {
+	  "s_title": "aduh_sakitnya",
+	  "s_options": "Aduh Sakitnya"
+	},
+	"72": {
+	  "s_title": "air_mata_tiada_arti",
+	  "s_options": "Air Mata Tiada Arti"
+	},
+	"73": {
+	  "s_title": "aku_tak_punya_cinta",
+	  "s_options": "Aku Tak Punya Cinta"
+	},
+	"74": {
+	  "s_title": "badai_kehidupan",
+	  "s_options": "Badai Kehidupan"
+	},
+	"75": {
+	  "s_title": "benih_asmara",
+	  "s_options": "Benih Asmara"
+	},
+	"76": {
+	  "s_title": "bunga_api",
+	  "s_options": "Bunga Api"
+	},
+	"77": {
+	  "s_title": "cinta_nakal",
+	  "s_options": "Cinta Nakal"
+	},
+	"78": {
+	  "s_title": "ditinggal_kekasih",
+	  "s_options": "Ditinggal Kekasih"
+	},
+	"79": {
+	  "s_title": "duren",
+	  "s_options": "Duren"
+	},
+	"80": {
+	  "s_title": "kasih",
+	  "s_options": "Kasih"
+	},
+	"81": {
+	  "s_title": "kau_bagi_cintamu",
+	  "s_options": "Kau Bagi Cintamu"
+	},
+	"82": {
+	  "s_title": "kehilangan",
+	  "s_options": "Kehilangan"
+	},
+	"83": {
+	  "s_title": "kembalikan_cintaku",
+	  "s_options": "Kembalikan Cintaku"
+	},
+	"84": {
+	  "s_title": "kembalilah_padanya",
+	  "s_options": "Kembalilah Padanya"
+	},
+	"85": {
+	  "s_title": "lipstik_siapa",
+	  "s_options": "Lipstik Siapa"
+	},
+	"86": {
+	  "s_title": "lupa_diri",
+	  "s_options": "Lupa Diri"
+	},
+	"87": {
+	  "s_title": "mahkota_yang_hilang",
+	  "s_options": "Mahkota yang Hilang"
+	},
+	"88": {
+	  "s_title": "malang",
+	  "s_options": "Malang"
+	},
+	"89": {
+	  "s_title": "mana_tanggung_jawabmu",
+	  "s_options": "Mana Tanggung Jawabmu"
+	},
+	"90": {
+	  "s_title": "mata_hatiku",
+	  "s_options": "Mata Hatiku"
+	},
+	"91": {
+	  "s_title": "mentah_mentah",
+	  "s_options": "Mentah Mentah"
+	},
+	"92": {
+	  "s_title": "pacaran_tak_jajan",
+	  "s_options": "Pacaran Tak Jajan"
+	},
+	"93": {
+	  "s_title": "pergi_tanpa_pesan",
+	  "s_options": "Pergi Tanpa Pesan"
+	},
+	"94": {
+	  "s_title": "pergilah",
+	  "s_options": "Pergilah"
+	},
+	"95": {
+	  "s_title": "rambut_dua_warna",
+	  "s_options": "Rambut Dua Warna"
+	},
+	"96": {
+	  "s_title": "rambut_sama_hitam",
+	  "s_options": "Rambut Sama Hitam"
+	},
+	"97": {
+	  "s_title": "rayu_rayu",
+	  "s_options": "Rayu Rayu"
+	},
+	"98": {
+	  "s_title": "renungkanlah",
+	  "s_options": "Renungkanlah"
+	},
+	"99": {
+	  "s_title": "sandiwara_cinta_sejati",
+	  "s_options": "Sandiwara Cinta Sejati"
+	},
+	"100": {
+	  "s_title": "sebatas_pintu",
+	  "s_options": "Sebatas Pintu"
+	},
+	"101": {
+	  "s_title": "seroja",
+	  "s_options": "Seroja"
+	},
+    "options": "Aku Cinta Padamu,Aku Rindu Padamu,Anak Haram,Asmara Kelapa Muda,Badai Biru,Bagai Ranting Yang Kering,Bawalah Aku Kasih,Berjanjilah,Berteman Malam,Betul Apa Tidak,Bibir Bermadu,Bukan Cerita Dusta,Bukan Jodohku,Bukan Sandiwara,Bunga Bunga Cinta,Bunga Dan Kumbang,Cemburu Karena Sayang,Cinta Ketok Magic,Cinta Segitiga,Dana Asmara,Di Samping Jalan,Dia,Dia Adalah Dia,Diam Diam Cemburu,Dokter Cinta,Duh Engkang,Duka,Gelisah,Gerimis Melanda,Hujan,Khayalan Masa Lalu,Khusus Malam Ini,Laguku,Liku Liku,Mabuk Duit,Mari Berdendang,Masih Adakah,Mimpi,Muara Kasih Bunda,Munafik,Perih,Peristiwa Silam,Siksa Kubur,Tak Tik,Terlambat,Aduh Sayang,Suara Hati,Gaun Merah Jambu,Gelora Cinta,Bekas Pacar,Berkawan Dalam Duka,Debu Debu Jalanan,Dangdut Dingin,Dua Muka,Hidup Pas Pasan,Jangan Cinta Aku,Kau Anak Haji Aku Anak Penjudi,Keruntuhan Cinta,Pendusta,Petualang Cinta,Secangkir Kopi,Termiskin di Dunia,Hari Hari Cinta,Ibu Tiri,Bunga Dahlia,Rindu Menanti,Sepiring Berdua,Cinta Abadi,Menanti Janji,Termenung,Aduh Sakitnya,Air Mata Tiada Arti,Aku Tak Punya Cinta,Badai Kehidupan,Benih Asmara,Bunga Api,Cinta Nakal,Ditinggal Kekasih,Duren,Kasih,Kau Bagi Cintamu,Kehilangan,Kembalikan Cintaku,Kembalilah Padanya,Lipstik Siapa,Lupa Diri,Mahkota yang Hilang,Malang,Mana Tanggung Jawabmu,Mata Hatiku,Mentah Mentah,Pacaran Tak Jajan,Pergi Tanpa Pesan,Pergilah,Rambut Dua Warna,Rambut Sama Hitam,Rayu Rayu,Renungkanlah,Sandiwara Cinta Sejati,Sebatas Pintu,Seroja"
+  }
